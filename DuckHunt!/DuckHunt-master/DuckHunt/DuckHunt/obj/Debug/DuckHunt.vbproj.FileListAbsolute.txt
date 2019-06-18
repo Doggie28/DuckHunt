@@ -1,0 +1,32 @@
+\\stg-highschool.sosd.7oaks.org\users\juliet.garcia\visual studio 2012\Projects\DuckHunt\DuckHunt\bin\Debug\DuckHunt.exe.config
+\\stg-highschool.sosd.7oaks.org\users\juliet.garcia\visual studio 2012\Projects\DuckHunt\DuckHunt\bin\Debug\DuckHunt.exe
+\\stg-highschool.sosd.7oaks.org\users\juliet.garcia\visual studio 2012\Projects\DuckHunt\DuckHunt\bin\Debug\DuckHunt.pdb
+\\stg-highschool.sosd.7oaks.org\users\juliet.garcia\visual studio 2012\Projects\DuckHunt\DuckHunt\bin\Debug\DuckHunt.xml
+\\stg-highschool.sosd.7oaks.org\users\juliet.garcia\visual studio 2012\Projects\DuckHunt\DuckHunt\obj\Debug\DuckHunt.Form1.resources
+\\stg-highschool.sosd.7oaks.org\users\juliet.garcia\visual studio 2012\Projects\DuckHunt\DuckHunt\obj\Debug\DuckHunt.Resources.resources
+\\stg-highschool.sosd.7oaks.org\users\juliet.garcia\visual studio 2012\Projects\DuckHunt\DuckHunt\obj\Debug\DuckHunt.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\users\juliet.garcia\visual studio 2012\Projects\DuckHunt\DuckHunt\obj\Debug\DuckHunt.exe
+\\stg-highschool.sosd.7oaks.org\users\juliet.garcia\visual studio 2012\Projects\DuckHunt\DuckHunt\obj\Debug\DuckHunt.xml
+\\stg-highschool.sosd.7oaks.org\users\juliet.garcia\visual studio 2012\Projects\DuckHunt\DuckHunt\obj\Debug\DuckHunt.pdb
+Z:\Visual Studio 2012\Projects\DuckHunt\DuckHunt\bin\Debug\DuckHunt.exe.config
+Z:\Visual Studio 2012\Projects\DuckHunt\DuckHunt\obj\Debug\DuckHunt.exe
+Z:\Visual Studio 2012\Projects\DuckHunt\DuckHunt\obj\Debug\DuckHunt.xml
+Z:\Visual Studio 2012\Projects\DuckHunt\DuckHunt\obj\Debug\DuckHunt.pdb
+Z:\Visual Studio 2012\Projects\DuckHunt\DuckHunt\bin\Debug\DuckHunt.exe
+Z:\Visual Studio 2012\Projects\DuckHunt\DuckHunt\bin\Debug\DuckHunt.pdb
+Z:\Visual Studio 2012\Projects\DuckHunt\DuckHunt\bin\Debug\DuckHunt.xml
+Z:\Visual Studio 2012\Projects\DuckHunt\DuckHunt\obj\Debug\DuckHunt.Form1.resources
+Z:\Visual Studio 2012\Projects\DuckHunt\DuckHunt\obj\Debug\DuckHunt.Resources.resources
+Z:\Visual Studio 2012\Projects\DuckHunt\DuckHunt\obj\Debug\DuckHunt.vbproj.GenerateResource.Cache
+C:\Users\tineo\Downloads\DuckHunt-master\DuckHunt-master\DuckHunt\DuckHunt\bin\Debug\DuckHunt.exe.config
+C:\Users\tineo\Downloads\DuckHunt-master\DuckHunt-master\DuckHunt\DuckHunt\bin\Debug\DuckHunt.exe
+C:\Users\tineo\Downloads\DuckHunt-master\DuckHunt-master\DuckHunt\DuckHunt\bin\Debug\DuckHunt.pdb
+C:\Users\tineo\Downloads\DuckHunt-master\DuckHunt-master\DuckHunt\DuckHunt\bin\Debug\DuckHunt.xml
+C:\Users\tineo\Downloads\DuckHunt-master\DuckHunt-master\DuckHunt\DuckHunt\obj\Debug\DuckHunt.vbprojAssemblyReference.cache
+C:\Users\tineo\Downloads\DuckHunt-master\DuckHunt-master\DuckHunt\DuckHunt\obj\Debug\DuckHunt.Form1.resources
+C:\Users\tineo\Downloads\DuckHunt-master\DuckHunt-master\DuckHunt\DuckHunt\obj\Debug\DuckHunt.Resources.resources
+C:\Users\tineo\Downloads\DuckHunt-master\DuckHunt-master\DuckHunt\DuckHunt\obj\Debug\DuckHunt.vbproj.GenerateResource.cache
+C:\Users\tineo\Downloads\DuckHunt-master\DuckHunt-master\DuckHunt\DuckHunt\obj\Debug\DuckHunt.vbproj.CoreCompileInputs.cache
+C:\Users\tineo\Downloads\DuckHunt-master\DuckHunt-master\DuckHunt\DuckHunt\obj\Debug\DuckHunt.exe
+C:\Users\tineo\Downloads\DuckHunt-master\DuckHunt-master\DuckHunt\DuckHunt\obj\Debug\DuckHunt.xml
+C:\Users\tineo\Downloads\DuckHunt-master\DuckHunt-master\DuckHunt\DuckHunt\obj\Debug\DuckHunt.pdb
